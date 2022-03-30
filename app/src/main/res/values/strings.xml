@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world">Hello World aaaaaaaaaa bbbbb</string>
+    <string name="click_me">Click Me</string>
+    <string name="this_is_a_second_activity">this is a second activity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
